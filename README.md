@@ -13,7 +13,7 @@ Tested on **Ubuntu 26.10, GNOME Shell 51.0, Wayland**.
 ## Quick start
 
 ```bash
-git clone https://github.com/mteguhfh/ubuntu-gnome-touchpad-gestures.git
+git clone https://github.com/mteguhfh/Ubuntu-Gnome-Touchpad-Gestures.git
 cd ubuntu-gnome-touchpad-gestures
 ./install.sh
 ```
